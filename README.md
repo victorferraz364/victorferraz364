@@ -7,6 +7,3 @@ Sou desenvolvedor Full-Stack e Técnico em Informática. Tenho experiência com 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat&logo=devops&logoColor=white)
 
-## Estatísticas 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor123&show_icons=true&hide_title=true&
