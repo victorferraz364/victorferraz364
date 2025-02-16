@@ -1,6 +1,8 @@
-# Olá, eu sou o Victor 👋
+# Victor | 22 anos | Desenvolvedor Full-Stack & Técnico em Informática
 
-Sou desenvolvedor Full-Stack e Técnico em Informática. Tenho experiência com **Angular** e **Spring** e atualmente estou estudando **DevOps**.
+Oi! Sou o Victor, tenho 22 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Trabalho como **desenvolvedor full-stack**, utilizando **Angular** para front-end e **Spring** para back-end. Atualmente, estou me aprofundando em **DevOps** e ampliando meus conhecimentos em infraestrutura de TI.
+
+Além disso, tenho experiência em **hardware** e **suporte a sistemas operacionais**, especialmente **Windows**, o que me dá uma visão mais ampla para construir soluções tecnológicas completas. Hoje, também atuo como **técnico em informática** e estou sempre buscando novos desafios e formas de evoluir na área de tecnologia.
 
 ## Tecnologias que eu uso 🚀
 ![Angular](https://img.shields.io/badge/-Angular-1572B6?style=flat&logo=angular&logoColor=white)
