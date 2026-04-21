@@ -1,4 +1,4 @@
-# Victor | 22 anos | Desenvolvedor Full-Stack & Técnico em Informática
+# Victor | 23 anos | Desenvolvedor Full-Stack & Técnico em Informática
 
 Oi! Sou o Victor, tenho 22 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Trabalho como **desenvolvedor full-stack**, utilizando **Angular** para front-end e **Spring** para back-end. Atualmente, estou me aprofundando em **DevOps** e ampliando meus conhecimentos em infraestrutura de TI.
 
